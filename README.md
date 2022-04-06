@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ailison or instagram.com/@ailisonrc
+- 👋 Hi, I’m Ailison.
 - 👀 I’m interested in Programming, Games, Snowboarding and Skateboarding.
-- 🌱 I’m currently learning Ruby and Rails forever, hybrid development with Ionic and how to double cork 1080.
-- 📫 Reach me on www.ailison.ca or my instagram account.
+- 🌱 I’m currently (forever) learning Ruby and Rails, hybrid development with Ionic, and how to double cork 1080.
+- 📫 Reach me on www.ailison.ca or my instagram account instagram.com/@ailisonrc
